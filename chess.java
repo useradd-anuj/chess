@@ -1,10 +1,3 @@
-/**Copyright (c) , all rights reversed by the Authors
- * 
- * the last version caused printing problems and therefore now its updated and resolved
- * 
- * the cjks are now replaced with the greek letters
- * 
- */
 import java.util.Scanner;
 class chess
 {
